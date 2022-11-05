@@ -1,1 +1,0 @@
-## iOS Privacy, Anonymity, & Security List
