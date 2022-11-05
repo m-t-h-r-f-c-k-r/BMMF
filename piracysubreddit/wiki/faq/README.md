@@ -131,7 +131,7 @@
 
 * How do I download from spotify?
 
-> You can't. There aren't any tools that can download the unencrypted spotify streams. The best method is to convert your Spotify playlist to a Deezer playlist, then download that via [Deemix](../../r/Deemix/). More sites/tools for music available in the [megathread](https://reddit.com/r/Piracy/wiki/megathread/music).
+> You can't. There aren't any tools that can download the unencrypted spotify streams. The best method is to convert your Spotify playlist to a Deezer playlist, then download that via [Deemix](../../../r/Deemix/). More sites/tools for music available in the [megathread](https://reddit.com/r/Piracy/wiki/megathread/music).
 
 * How do I download from pan baidu?
 

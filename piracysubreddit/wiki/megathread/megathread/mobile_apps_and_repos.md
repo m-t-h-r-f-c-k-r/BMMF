@@ -1,4 +1,4 @@
-# mobile\_apps\_and\_repos
+# Mobile Apps and Repos
 
 [◄◄ **Back to Megathread**](https://www.reddit.com/r/Piracy/wiki/megathread)
 
@@ -36,7 +36,7 @@ For mobile Movies & TV apps, jump to the [**Movies & TV section**](https://www.r
 ### ► Android Music Apps
 
 * [Freezer](https://files.freezer.life) - Streaming and downloading app for Deezer.
-* [AIDS](../../../r/deemix/) - Android app for downloading mp3/FLAC from Deezer. Replacement for deezloader
+* [AIDS](../../../../r/deemix/) - Android app for downloading mp3/FLAC from Deezer. Replacement for deezloader
 * [Fildo](https://fildo.net/android/en/) - Android app for downloading and streaming music.
 * [Newpipe](https://newpipe.schabi.org/) - Watch and download youtube videos. Also offers ability to download from soundcloud.
 * [Youtube Vanced](https://vancedapp.com/) - Ad-free youtube, supports background play. Modded version of the official youtube app.
