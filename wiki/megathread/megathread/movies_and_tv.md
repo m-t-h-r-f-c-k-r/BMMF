@@ -1,4 +1,4 @@
-# movies\_and\_tv
+# Movies and TV
 
 [◄◄ **Back to Megathread**](https://www.reddit.com/r/Piracy/wiki/megathread)
 

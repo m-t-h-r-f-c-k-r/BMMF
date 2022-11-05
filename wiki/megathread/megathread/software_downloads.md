@@ -1,4 +1,4 @@
-# software\_downloads
+# Software Downloads
 
 [**◄◄ Back to Megathread**](https://www.reddit.com/r/Piracy/wiki/megathread)
 

@@ -1,4 +1,4 @@
-# music
+# Music
 
 [**◄◄ Back to Megathread**](https://www.reddit.com/r/Piracy/wiki/megathread)
 

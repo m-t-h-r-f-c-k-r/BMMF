@@ -1,4 +1,4 @@
-# related\_subreddits
+# Related Subreddits
 
 [◄◄ **Back to Megathread**](https://www.reddit.com/r/Piracy/wiki/megathread)
 
